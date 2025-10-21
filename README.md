@@ -51,30 +51,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
----
-
-## 🚀 Projekte (Auswahl)
-
-<!-- Ersetze repo-namen durch deine Repos oder kommentiere die Karten, wenn du noch keine Pins möchtest -->
-<p align="center">
-  <a href="https://github.com/Nico8Rich/DEIN_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nico8Rich&repo=DEIN_REPO_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nico8Rich/DEIN_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nico8Rich&repo=DEIN_REPO_2&theme=tokyonight" />
-  </a>
-</p>
-
-<details>
-  <summary><b>Mehr Projekte</b></summary>
-
-- 🧩 **Projekt A** – Kurzbeschreibung / Tech: PHP, JS  
-- ⚡ **Projekt B** – Kurzbeschreibung / Tech: Flask, MySQL  
-- 🎯 **Projekt C** – Kurzbeschreibung / Tech: C++, Algorithms  
-
-</details>
-
----
 
 ## 📊 GitHub Stats
 
