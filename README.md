@@ -74,13 +74,3 @@
 </p>
 
 ---
-
-## 📫 Kontakt
-
-- Mail: <a href="mailto:your.email@example.com">your.email@example.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/DEIN_HANDLE">DEIN_HANDLE</a> (optional)
-
-<!-- Tipps:
-1) Ersetze DEIN_REPO_* und Kontaktinfos.
-2) Halte die Projektliste aktuell.
-3) Nutze Issues/Projects für Roadmaps, verlinke sie hier. -->
